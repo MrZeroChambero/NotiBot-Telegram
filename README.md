@@ -22,6 +22,4 @@
 
 Puedes alojarlo en servicios gratuitos como **Render** (Cron Jobs), **Cyclic** o **Fly.io**. El bot funciona sin necesidad de un servidor 24/7 gracias a ejecuciones programadas externas.
 
-## 📄 Licencia
 
-MIT
